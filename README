@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=756
+
+A newly added feature of python 2.3 is PEP 0263(http://www.python.org/peps/pep-0263.html). Now you can add a magic comment that defines the encoding of the source file. This script recognizes this directive and changes Vim's encoding accordingly.
+
